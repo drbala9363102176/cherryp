@@ -4,5 +4,6 @@ b = 20
 # Addition
 result = a + b
 sub= a-b
+div=a/b
 
 print(result)
